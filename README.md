@@ -48,6 +48,12 @@
     <img src="Logos-Conhecimentos/Trello.png" alt="Trello" title="Trello" height="60px" width="60px">
   </p>
   
+  <div>
+  <img alingn="right" alt="Rique-dobby" src="https://i.pinimg.com/originals/f8/f2/e0/f8f2e0717dd572e75bc9434006a88511.jpg">
+  </div>
+  
+  
+  
 ---
   
 </div>
@@ -56,9 +62,7 @@
   
   <div> 
  
-  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luishenriqueslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/luishenriqueslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
