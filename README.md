@@ -49,7 +49,7 @@
   </p>
   
   <div>
-  <img alingn="right" alt="Rique-dobby" src="https://i.pinimg.com/originals/f8/f2/e0/f8f2e0717dd572e75bc9434006a88511.jpg">
+  <img alingn="right" alt="Rique-dobby" src="https://i.pinimg.com/originals/f8/f2/e0/f8f2e0717dd572e75bc9434006a88511.jpg" height"50px" wight"50px">
   </div>
   
   
