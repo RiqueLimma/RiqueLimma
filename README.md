@@ -1,4 +1,4 @@
-## Olá eu sou o Luis Henrique !! 😄
+## Olá sou o Luis Henrique !! 😄
 
 - 👨‍💻 Cursando Universidade Uninove, Análise e Desenvolvimento de Sistema
 - 👨‍🎓 Recém formado Desenvolvedor Full Stack Java Junior pela Generation Brasil
