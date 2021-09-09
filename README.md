@@ -49,7 +49,7 @@
   </p>
   
   <div>
-  <img alingn="right" alt="Rique-dobby" height="400" src="https://i.gifer.com/7OiF.gif" >
+  <img alingn="right" alt="Rique-dobby" height="400px" src="https://i.gifer.com/7OiF.gif" >
   </div>
   
   
