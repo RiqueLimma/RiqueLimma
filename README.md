@@ -9,7 +9,6 @@
   <p>
     <img src="Logos-Conhecimentos/Java.png" alt="Java" title="Java" height="62px" width="62px">
     <img src="Logos-Conhecimentos/MySQL.png" alt="MySQL" title="MySQL">
-    <img src="Logos-Conhecimentos/PostgreSQL.png" alt="PostgreSQL" title="PostgreSQL">
     <img src="Logos-Conhecimentos/Spring Boot.png" alt="Spring" title="Spring" height="62px" width="62px">
     <img src="Logos-Conhecimentos/Maven.png" alt="Maven" title="Maven">
     <img src="Logos-Conhecimentos/Junit.png" alt="Junit" title="Junit">
