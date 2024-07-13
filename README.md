@@ -1,9 +1,8 @@
 ## Olá sou o Luis Henrique !! 😄
 
-- 👨‍💻 Cursando Universidade Uninove, Análise e Desenvolvimento de Sistema
+- 👨‍💻 Universidade Uninove, Análise e Desenvolvimento de Sistema
 - 👨‍🎓 Recém formado Desenvolvedor Full Stack Java Junior pela Generation Brasil
-- 📫 Contato-me no email: luish8808@gmail.com
--  Pronouns: Ele/Dele
+- 📫 Contato-me no email: lhsousalima@gmail.com
 
 <h2>Back-End</h2>
   <p>
